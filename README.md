@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jathur03
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning HTML, CSS, JS, Python
+- 🌱 I’m currently learning React JS, Python, C++, and C#
 - 💞️ I’m looking to collaborate on github
 
 
